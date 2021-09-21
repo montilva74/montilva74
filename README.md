@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/albamontilva" target="blank"><img src="https://img.shields.io/twitter/follow/albamontilva?logo=twitter&style=for-the-badge" alt="albamontilva" /></a> </p>
 
-- 📫 Email de contacto **montilva74@gmail.com**
+- 📫 Email de contacto: **montilva74@gmail.com**
 
-- ⚡ Sabías que **Me encanta el café**
+- ⚡ Sabías que: **Me encanta el café**
 
 <h3 align="left">Me puedes conseguir por:</h3>
 <p align="left">
