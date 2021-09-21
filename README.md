@@ -1,3 +1,4 @@
+![lazycat_code-01_4x](https://user-images.githubusercontent.com/67654920/134250772-60fc2cf4-d891-49b2-b385-a770f4bc374f.png)
 
 <h1 align="center">Hola 👋, soy Alba Montilva</h1>
 <h3 align="center">Web Developer</h3>
