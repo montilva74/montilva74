@@ -1,4 +1,5 @@
-![lazycat_code-01_4x](https://user-images.githubusercontent.com/67654920/134250952-884b4352-1b10-4fd7-8349-56fcb410cb97.png)
+
+![lazycat_code-01_4x (1)](https://user-images.githubusercontent.com/67654920/134251059-f7ed7d06-a538-4eaa-ac04-1db3b054e26d.png)
 
 
 <h1 align="center">Hola 👋, soy Alba Montilva</h1>
