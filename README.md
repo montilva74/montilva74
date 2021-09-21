@@ -1,4 +1,3 @@
-![5ae77de86a2c97a40166a49f5cc46660-0](https://user-images.githubusercontent.com/67654920/134248369-b72768fd-cc56-4fbd-9295-d3e3c016b286.png)
 
 <h1 align="center">Hola 👋, soy Alba Montilva</h1>
 <h3 align="center">Web Developer</h3>
